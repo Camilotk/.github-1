@@ -17,7 +17,7 @@ We depend on your support to keep going, please consider sponsoring us.
 
 https://github.com/sponsors/CaravanaCloud
 
-More information about us at https://caravana.coud
+More information about us at https://caravana.cloud
 
 If you see any project you like or an issue you'd like to tackle, feel free to message us, join the conversation, and get started. 
 
